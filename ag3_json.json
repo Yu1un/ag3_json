@@ -335,7 +335,7 @@
         "cicon": "https://www.mandatory.gg/wp-content/uploads/valorant-database-agents-chamber-skill-icon-c.png",
         "cskill": "C - 慢行特區",
         "cintro": "裝備一個可偵測敵人的陷阱，點按「攻擊鍵」可放置在地上，非隱形的敵人進入範圍時，該陷阱倒數後會使周圍空間進入不穩定的狀態，創造一個可維持一段時間的力場，「緩速」範圍內的敵人。可撿起陷阱，然後「重新部署」。",
-        "xicon": "https://liquipedia.net/commons/images/thumb/2/2f/Chamber_Tour_De_Force.png/128px-Chamber_Tour_De_Force.png",
+        "xicon": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6856745815feee67/618d9eda3b08dd14d79a808b/Chamber_ability_X.png",
         "xskill": "X - 浪漫狙殺",
         "xintro":"按下「啟動鍵」可取出一把強大的特製狙擊槍，直接命中上身即可擊殺敵人。點按「輔助攻擊鍵」即可進入開鏡瞄準模式。擊殺敵人後會創造一個可維持一段時間的力場，緩速範圍內的敵人。"
     },
